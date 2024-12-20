@@ -1,0 +1,29 @@
+{
+  "companyName": "TechCorp",
+  "employees": [
+    {
+      "id": 1,
+      "name": "SUICO",
+      "position": "Developer",
+      "location": "HCDC"
+    },
+    {
+      "id": 2,
+      "name": "ABOY",
+      "position": "RESERCHER",
+      "location": "TAGA AGDAO"
+    },
+    {
+      "id": 4,
+      "name": "KIM",
+      "position": "DEBUGGING",
+      "location": "HCDC"
+    },
+    {
+      "id": 5,
+      "name": "EMMAN",
+      "position": "RESERCHER",
+      "location": "HCDC"
+    }
+  ]
+}
